@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringiA4_SourceCode.iml" filepath="$PROJECT_DIR$/SpringiA4_SourceCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Test_GradleWeb.iml" filepath="$PROJECT_DIR$/.idea/modules/Test_GradleWeb.iml" group="Test_GradleWeb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Test_GradleWeb/Test_GradleWeb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Test_GradleWeb/Test_GradleWeb_main.iml" group="Test_GradleWeb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Test_GradleWeb/Test_GradleWeb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Test_GradleWeb/Test_GradleWeb_test.iml" group="Test_GradleWeb" />
+    </modules>
+  </component>
+</project>
